@@ -1,1 +1,1 @@
-echo "first dev push"
+echo "first push"
