@@ -1,2 +1,2 @@
-echo "first dev push"
-echo "new line aws"
+echo "first push"
+echo "new line devops"
